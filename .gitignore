@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# venv
+venv/
+
+# Installed libraries
+lib/
+libs/
+library/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
